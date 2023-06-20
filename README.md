@@ -1,1 +1,1 @@
-My name is Kinnary (kin-uh-ree) Shah and I am a second-year Ph.D. candidate in the Biostatistics department at Johns Hopkins Bloomberg School of Public Health. I'm currently working on spatial transcriptomics data analysis and methods development.
+My name is Kinnary (kin-uh-ree) Shah and I am a third-year Ph.D. candidate in the Biostatistics department at Johns Hopkins Bloomberg School of Public Health. I'm currently working on spatial transcriptomics data analysis and methods development.
